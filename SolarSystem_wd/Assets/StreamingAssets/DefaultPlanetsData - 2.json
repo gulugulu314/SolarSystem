@@ -1,0 +1,121 @@
+﻿[
+	{
+		"name":"Mercury",
+        "parameters":
+		{
+			"RotatePeriod":"2200",
+			"BiasAngle":"0.1",
+			"RotationDirection":"自西向东",
+			"NearSolarPoint":"0.8",
+			"FarSolarPoint":"50",
+			"RevolutionPeriod":"0.24",
+			"TrackBiasAngle":"7",
+			"Introductions"	:"水星最接近太阳[2]  ，是太阳系中体积和质量最小的行星。常和太阳同时出没，中国古代称它为“辰星”。水星在直径上小于木卫三和土卫六。"	
+		}
+	},
+
+	{
+		"name":"Venus",
+		"parameters":
+		{
+			"RotatePeriod":"243",
+			"BiasAngle":"177",
+			"RotationDirection":"自东向西",
+			"NearSolarPoint":"0.6",
+			"FarSolarPoint":"85",
+			"RevolutionPeriod":"0.61",
+			"TrackBiasAngle":"3.4",
+			"Introductions"	:"金星是全天中除太阳、月球外最亮的星，犹如一颗耀眼的钻石，于是古希腊人称它为阿佛洛狄忒--爱与美的女神，而罗马人则称它为维纳斯--爱神。"	
+		}
+	},
+
+	{
+		"name":"Earth",
+		"parameters":
+		{
+			"RotatePeriod":"0.9973",
+			"BiasAngle":"23",
+			"RotationDirection":"自西向东",
+			"NearSolarPoint":"0.7",
+			"FarSolarPoint":"110",
+			"RevolutionPeriod":"1",
+			"TrackBiasAngle":"0",
+			"Introductions"	:"地球是距太阳第三颗，也是太阳系第五大行星。地球，当然不需要飞行器即可被观测，然而我们直到二十世纪才有了整个行星的地图。"	
+		}
+	},
+
+	{
+		"name":"Mars",
+		"parameters":
+		{
+			"RotatePeriod":"1.026",
+			"BiasAngle":"25",
+			"RotationDirection":"自西向东",
+			"NearSolarPoint":"0.72",
+			"FarSolarPoint":"130",
+			"RevolutionPeriod":"1.88",
+			"TrackBiasAngle":"1.8",
+			"Introductions"	:"火星为距太阳第四近，也是太阳系中第七大行星；中国古代称“荧惑星”，火星在心宿内发生“留”的现象称为荧惑守心。"	
+		}
+	},
+
+	{
+		"name":"Jupiter",
+		"parameters":
+		{
+			"RotatePeriod":"0.41",
+			"BiasAngle":"3",
+			"RotationDirection":"自西向东",
+			"NearSolarPoint":"0.75",
+			"FarSolarPoint":"160",
+			"RevolutionPeriod":"5.3",
+			"TrackBiasAngle":"0",
+			"Introductions"	:"木星是离太阳第五颗行星，亦为太阳系行星中质量最大的一颗，它的质量是所有其他的7颗行星的总和的2.5倍，是地球的318倍，体积为地球的1316倍。被称为“行星之王”。"	
+		}
+	},
+
+	{
+		"name":"Saturn",
+		"parameters":
+		{
+			"RotatePeriod":"0.43",
+			"BiasAngle":"27",
+			"RotationDirection":"自西向东",
+			"NearSolarPoint":"0.65",
+			"FarSolarPoint":"190",
+			"RevolutionPeriod":"11.5",
+			"TrackBiasAngle":"0",
+			"Introductions"	:"土星是离太阳第六远的行星，也是八大行星中第二大的行星，中国古代称为“镇星”，是太阳系密度最小的行星，可以浮在水上。"	
+		}
+	},
+
+	{
+		"name":"Uranus",
+		"parameters":
+		{
+			"RotatePeriod":"0.65",
+			"BiasAngle":"98",
+			"RotationDirection":"自西向东",
+			"NearSolarPoint":"0.56",
+			"FarSolarPoint":"220",
+			"RevolutionPeriod":"20",
+			"TrackBiasAngle":"0",
+			"Introductions"	:"天王星是太阳系中离太阳第七远行星，从直径来看，是太阳系中第三大行星。天王星的体积比海王星大，质量却比其小。"	
+		}
+	},
+
+	{
+		"name":"Neptune",
+		"parameters":
+		{
+			"RotatePeriod":"0.916",
+			"BiasAngle":"30",
+			"RotationDirection":"自西向东",
+			"NearSolarPoint":"0.6",
+			"FarSolarPoint":"250",
+			"RevolutionPeriod":"33",
+			"TrackBiasAngle":"0",
+			"Introductions"	:"海王星是环绕太阳运行的第八颗行星，也是太阳系中第四大天体（直径上）。海王星在直径上小于天王星，但质量比它大"	
+		}
+	}
+]
